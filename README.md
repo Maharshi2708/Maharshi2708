@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharshi2708&label=Profile%20views&color=0e75b6&style=flat" alt="maharshi2708" /> </p>
 
-- 🔭 I’m currently working at **The Special Character as an Intern**
+- 🔭 I had worked at **The Special Character as an Intern**
 
 - 🌱 I’m currently learning **AI, ML**
 
